@@ -5,13 +5,13 @@ Special thanks to TripHappy for letting me use their <a href="https://triphappy.
 First we will look at:
 <h1>Reddit</h1>
 
-/r/Coupons - https://www.reddit.com/r/coupons/
-/r/Entrepreneur - http://reddit.com/r/entrepreneur
-/r/EntrepreneurRideAlong - http://www.reddit.com/r/EntrepreneurRideAlong/
-/r/ShamelessPlug - https://www.reddit.com/r/shamelessplug/
-/r/SideProject - http://reddit.com/r/sideproject
-/r/SmallBusiness - https://www.reddit.com/r/smallbusiness/
-/r/Startups - http://reddit.com/r/startups
+/r/Coupons - https://www.reddit.com/r/coupons/ <br>
+/r/Entrepreneur - http://reddit.com/r/entrepreneur <br>
+/r/EntrepreneurRideAlong - http://www.reddit.com/r/EntrepreneurRideAlong/ <br>
+/r/ShamelessPlug - https://www.reddit.com/r/shamelessplug/ <br>
+/r/SideProject - http://reddit.com/r/sideproject <br>
+/r/SmallBusiness - https://www.reddit.com/r/smallbusiness/ <br>
+/r/Startups - http://reddit.com/r/startups <br>
 
 Now we will look at the Startup Websites
 
